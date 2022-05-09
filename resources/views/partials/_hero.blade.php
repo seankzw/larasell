@@ -10,7 +10,7 @@
             Lara<span class="text-black">sell</span>
         </h1>
         <p class="text-2xl text-gray-200 font-bold my-4">
-            Find or post stuff anything
+            Find or post any stuff you wanna sell!
         </p>
         <div>
             <a
