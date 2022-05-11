@@ -25,6 +25,7 @@ class AppServiceProvider extends ServiceProvider
     public function boot()
     {
         //
-        Model::unguard();
+        Model::unguard(); //! Only when you know what youre sending it into the database
+
     }
 }
